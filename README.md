@@ -34,7 +34,7 @@ Para utilizar o banco de dados "Compras de Livros", siga as etapas abaixo:
    - A seguir, copie o código SQL de inserção de dados (`insercao_dados.sql`) e execute-o no seu SGBD para popular as tabelas com informações fictícias.
 
 4. **Consultas e Análises:**
-   - Agora que o banco de dados está criado e populado com dados fictícios, você pode realizar consultas SQL para obter informações específicas e realizar análises relacionadas às compras de livros na loja.
+   - Agora que o banco de dados está criado e populado com dados fictícios, você pode realizar consultas SQL para obter informações específicas e realizar análises relacionadas às compras de livros da biblioteca.
 
 Link para o DBDiagram, onde foi feita a modelagem do BD:
 https://dbdiagram.io/d/64c8428b02bd1c4a5e02ed71
@@ -44,4 +44,5 @@ https://dbdiagram.io/d/64c8428b02bd1c4a5e02ed71
 Em caso de dúvidas, sugestões ou feedback, sinta-se à vontade para entrar em contato comigo:
 
 rffantin@gmail.com
+
 www.linkedin.com/in/rafaelfantincamargo
