@@ -57,3 +57,4 @@ CREATE TABLE `compras` (
   `id_livro_fk` INT, -- Coluna que será utilizada para estabelecer a chave estrangeira para livros
   FOREIGN KEY (id_livro_fk) REFERENCES livros (id_livro) -- Chave estrangeira referenciando a tabela "livros"
 );
+-- Link da estruturação do BD no DBDiagram: https://dbdiagram.io/d/64c8428b02bd1c4a5e02ed71

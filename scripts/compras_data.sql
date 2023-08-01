@@ -50,3 +50,4 @@ VALUES
     ('10', '3'), -- Dados da compra 3
 	('12', '4'), -- Dados da compra 4
     ('50', '5'); -- Dados da compra 5
+-- Link da estruturação do BD no DBDiagram: https://dbdiagram.io/d/64c8428b02bd1c4a5e02ed71
